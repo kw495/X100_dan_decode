@@ -1,0 +1,2 @@
+# X100_dan_decode
+DJ-X100のdanおよびdatファイルを読んでcsvにするスクリプト
